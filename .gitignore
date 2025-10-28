@@ -1,0 +1,84 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pkl
+*.log
+*.sqlite3
+*.db
+*.egg-info/
+
+# Ambientes
+.venv/
+venv/
+ENV/
+env/
+
+# Configs locais
+.env
+.env.local
+.env.dev
+.env.prod
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+.project
+.pydevproject
+.settings/
+
+# Logs
+logs/
+*.log
+*.tmp
+tmp/
+*.bak
+
+!logs/.keep
+
+# Airflow 
+airflow_logs/
+dags/__pycache__/
+dags/*.pyc
+dags/*.pyo
+plugins/__pycache__/
+plugins/*.pyc
+plugins/*.pyo
+
+# Docker
+*.pid
+*.tar
+*.gz
+*.bak
+docker-data/
+postgres-data/
+pgdata/
+
+# Notebooks
+.ipynb_checkpoints/
+*.nbconvert.ipynb
+.notebook_cache/
+*.DS_Store
+*.bak
+*.old
+
+# Dados
+data/tmp/*
+data/raw/*
+
+!data/raw/.keep
+!data/tmp/.keep
+
+# Testes files
+pytest_cache/
+tests/__pycache__/
+**/__pycache__/
+*.pyc
+
+# SO
+Thumbs.db
+.DS_Store
+Desktop.ini
