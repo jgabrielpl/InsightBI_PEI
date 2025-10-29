@@ -9,10 +9,11 @@
 
 > Este repositório foi desenvolvido como parte do meu **Projeto Extensionista Integrador (PEI)** do curso de **Engenharia de Software - UNIVAG**
 
+
 O **InsightBI** é um projeto de **engenharia de dados** voltado para a **análise e predição de evasão acadêmica** em universidades.  
 O pipeline realiza o processo completo de **ETL (Extract, Transform, Load)**, incluindo **enriquecimento de dados via API do Google Maps**, e armazena os resultados em um banco **PostgreSQL**, orquestrado por **Apache Airflow**.
 
-Os dados previamente foram criados pelo Faker, simulando registros reais de alunos, considerando fatores demográficos, socioeconômicos e acadêmicos, permitindo identificar padrões e possíveis causas da evasão estudantil.
+Os dados foram previamente criados pelo Faker, simulando registros reais de alunos, considerando fatores demográficos, socioeconômicos e acadêmicos, permitindo identificar padrões e possíveis causas da evasão estudantil.
 
 Além do pipeline, o projeto conta com **testes unitários e de benchmark**, garantindo robustez, desempenho e reprodutibilidade dos dados.
 
@@ -219,6 +220,7 @@ Estudante de Engenharia de Software | Foco em Engenharia de Dados
 [LinkedIn](https://www.linkedin.com/in/jsgabrielpereira) · [GitHub](https://github.com/jgabrielpl)
 
 ---
+
 
 
 
