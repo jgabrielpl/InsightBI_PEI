@@ -203,9 +203,9 @@ Total       : 0.0176s
 
 ## Futuros Próximos Passos
 
-* [ ] Criar camada de Data Warehouse (DW) via dbt
+* [ ] Criar camada de **Data Warehouse (DW)** via **dbt**
 * [ ] Integrar **Soda ou Great Expectations** para validação de qualidade dos dados
-* [ ] Monitoramento com Prometheus + Grafana
+* [ ] Monitoramento com **Prometheus + Grafana**
 
 ---
 
@@ -217,5 +217,6 @@ Estudante de Engenharia de Software | Foco em Engenharia de Dados
 [LinkedIn](https://www.linkedin.com/in/jsgabrielpereira) · [GitHub](https://github.com/jgabrielpl)
 
 ---
+
 
 
