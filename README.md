@@ -16,6 +16,12 @@ Além do pipeline, o projeto conta com **testes unitários e de benchmark**, gar
 
 ---
 
+## Arquitetura do projeto
+
+<img src="https://github.com/jgabrielpl/InsightBI_PEI/blob/bf20f4f749ff60aa361f9557258cf65acff5eea3/docs/Evasao%20Arquitetura.png" width="1000">
+
+---
+
 ## Funcionalidades Principais
 
 - Pipeline **ETL completo** (extração, transformação, enriquecimento e carga)  
@@ -211,4 +217,5 @@ Estudante de Engenharia de Software | Foco em Engenharia de Dados
 [LinkedIn](https://www.linkedin.com/in/jsgabrielpereira) · [GitHub](https://github.com/jgabrielpl)
 
 ---
+
 
