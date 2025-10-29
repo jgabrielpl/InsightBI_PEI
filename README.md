@@ -176,17 +176,15 @@ Total       : 0.0176s
 
 ## Tecnologias Utilizadas
 
-| Categoria              | Ferramentas / Tecnologias         |
-| ---------------------- | --------------------------------- |
-| **Linguagem**          | Python 3.11+                      |
-| **Orquestração**       | Apache Airflow                    |
-| **Banco de Dados**     | PostgreSQL + SQLAlchemy           |
-| **Infraestrutura**     | Docker                            |
-| **Testes & Benchmark** | Pytest                            |
-| **Enriquecimento**     | Google Maps API + Requests        |
-| **Visualização**       | Pandas, Seaborn, Matplotlib       |
-| **Logging**            | Python Logging                    |
-
+- **Linguagem:** Python 3.11+
+- **Orquestração:** Apache Airflow
+- **Banco de Dados:** PostgreSQL
+- **ETL:** Pandas, Numpy, SQLAlchemy e psycopg2
+- **Infraestrutura:** Docker
+- **Testes & Benchmark:** Pytest
+- **Enriquecimento:** Google Maps API + Requests
+- **Exploração e Visualização:** Jupyter Notebooks - Pandas, Matplotlib e Seaborn
+- **Logging:** Python Logging
 
 ---
 
@@ -213,3 +211,4 @@ Estudante de Engenharia de Software | Foco em Engenharia de Dados
 [LinkedIn](https://www.linkedin.com/in/jsgabrielpereira) · [GitHub](https://github.com/jgabrielpl)
 
 ---
+
