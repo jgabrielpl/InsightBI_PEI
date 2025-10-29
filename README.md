@@ -108,7 +108,7 @@ A estrutura analítica proposta segue o modelo **estrela (Star Schema)**, com um
 
 ```bash
 git clone https://github.com/jgabrielpl/InsightBI_PEI.git
-cd InsightBI
+cd InsightBI_PEI
 ```
 
 ### 2. Configuração Inicial
@@ -217,6 +217,7 @@ Estudante de Engenharia de Software | Foco em Engenharia de Dados
 [LinkedIn](https://www.linkedin.com/in/jsgabrielpereira) · [GitHub](https://github.com/jgabrielpl)
 
 ---
+
 
 
 
