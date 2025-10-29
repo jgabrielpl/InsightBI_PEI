@@ -7,6 +7,8 @@
 [![Pytest](https://img.shields.io/badge/Tests-Pytest-yellowgreen)](https://docs.pytest.org/) 
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
+> Este repositório foi desenvolvido como parte do meu **Projeto Extensionista Integrador (PEI)** do curso de **Engenharia de Software - UNIVAG**
+
 O **InsightBI** é um projeto de **engenharia de dados** voltado para a **análise e predição de evasão acadêmica** em universidades.  
 O pipeline realiza o processo completo de **ETL (Extract, Transform, Load)**, incluindo **enriquecimento de dados via API do Google Maps**, e armazena os resultados em um banco **PostgreSQL**, orquestrado por **Apache Airflow**.
 
@@ -217,6 +219,7 @@ Estudante de Engenharia de Software | Foco em Engenharia de Dados
 [LinkedIn](https://www.linkedin.com/in/jsgabrielpereira) · [GitHub](https://github.com/jgabrielpl)
 
 ---
+
 
 
 
