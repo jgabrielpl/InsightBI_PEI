@@ -129,12 +129,23 @@ POSTGRES_HOST=
 
 AIRFLOW_USER= 
 AIRFLOW_PASSWORD=
-``` 
+```
 
-### 3. Suba o ambiente Docker (Airflow + PostgreSQL)
+### 3. Comandos do ambiente Docker (Airflow + Postgres)
 
+**Obs:** os comandos serão executados na pasta do projeto: `cd InsightBI_PEI`
+
+**3.1 - Buildar as imagens:**
 ```bash
-docker compose up --build
+docker compose build
+```
+**3.2 - Subir o webserver do Airflow:**
+```bash
+docker compose run --rm airflow airflow db init
+```
+**3.3 - Subir o container:**
+```bash
+docker compose up -d
 ```
 
 ### 4. Acesse o Airflow
@@ -220,6 +231,7 @@ Estudante de Engenharia de Software | Foco em Engenharia de Dados
 [LinkedIn](https://www.linkedin.com/in/jsgabrielpereira) · [GitHub](https://github.com/jgabrielpl)
 
 ---
+
 
 
 
