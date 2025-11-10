@@ -225,12 +225,13 @@ Total       : 0.0176s
 
 ## Autor
 
-**José Gabriel Pereira**
+**José Gabriel**
 Estudante de Engenharia de Software | Foco em Engenharia de Dados
 
 [LinkedIn](https://www.linkedin.com/in/jsgabrielpereira) · [GitHub](https://github.com/jgabrielpl)
 
 ---
+
 
 
 
